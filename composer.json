@@ -1,9 +1,9 @@
 {
     "name": "scanlyser/php-sdk",
-    "description": "PHP SDK for the ScanLyser API — accessibility, SEO, and security scanning.",
+    "description": "PHP SDK for the ScanLyser API — accessibility, SEO, performance, UX, and security scanning.",
     "type": "library",
     "license": "MIT",
-    "keywords": ["scanlyser", "accessibility", "wcag", "seo", "api", "sdk"],
+    "keywords": ["scanlyser", "accessibility", "wcag", "seo", "performance", "ux", "security", "api", "sdk"],
     "homepage": "https://scanlyser.app",
     "require": {
         "php": "^8.2",

@@ -1,6 +1,6 @@
 # ScanLyser PHP SDK
 
-Official PHP SDK for the [ScanLyser](https://scanlyser.app) API. Run accessibility, SEO, and security scans programmatically.
+Official PHP SDK for the [ScanLyser](https://scanlyser.app) API. Run accessibility, SEO, performance, UX, and security scans programmatically.
 
 ## Requirements
 
