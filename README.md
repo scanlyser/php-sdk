@@ -10,7 +10,7 @@ Official PHP SDK for the [ScanLyser](https://scanlyser.app) API. Run accessibili
 ## Installation
 
 ```bash
-composer require scanlyser/sdk
+composer require scanlyser/php-sdk
 ```
 
 ## Quick Start

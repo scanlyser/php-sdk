@@ -1,5 +1,5 @@
 {
-    "name": "scanlyser/sdk",
+    "name": "scanlyser/php-sdk",
     "description": "PHP SDK for the ScanLyser API — accessibility, SEO, and security scanning.",
     "type": "library",
     "license": "MIT",
